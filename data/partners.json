@@ -1,0 +1,99 @@
+[
+  {
+    "name": "vamos-parcelar",
+    "fileName": "vamos-parcelar.png",
+    "shouldInvert": true
+  },
+  {
+    "name": "banco-do-brasil-consorcios",
+    "fileName": "banco-do-brasil-consorcios.png"
+  },
+  {
+    "name": "bancopan-cartao-de-credito",
+    "fileName": "bancopan-cartao-de-credito.png"
+  },
+  { "name": "bmg", "fileName": "bmg.png" },
+  {
+    "name": "bradesco-emprestimo-pessoal",
+    "fileName": "bradesco-emprestimo-pessoal.png"
+  },
+  {
+    "name": "bv-financeira-emprestimo-pessoal",
+    "fileName": "bv-financeira-emprestimo-pessoal.png"
+  },
+  { "name": "bxblue", "fileName": "bxblue.png" },
+  { "name": "caixa-aqui", "fileName": "caixa-aqui.png" },
+  { "name": "credihome", "fileName": "credihome.png" },
+  { "name": "creditas", "fileName": "creditas.png" },
+  { "name": "credjet", "fileName": "credjet.png" },
+  { "name": "digio", "fileName": "digio.png" },
+  {
+    "name": "emprestimo-pessoal-sim",
+    "fileName": "emprestimo-pessoal-sim.png"
+  },
+  {
+    "name": "ferratum-emprestimo-pessoal",
+    "fileName": "ferratum-emprestimo-pessoal.png"
+  },
+  {
+    "name": "finamax-emprestimo-pessoal",
+    "fileName": "finamax-emprestimo-pessoal.png"
+  },
+  {
+    "name": "geru-emprestimo-pessoal",
+    "fileName": "geru-emprestimo-pessoal.png"
+  },
+  {
+    "name": "hcred-emprestimo-pessoal",
+    "fileName": "hcred-emprestimo-pessoal.png"
+  },
+  { "name": "jeitto", "fileName": "jeitto.png" },
+  {
+    "name": "lendico-emprestimo-pessoal",
+    "fileName": "lendico-emprestimo-pessoal.png"
+  },
+  {
+    "name": "moneyman-emprestimo-pessoal",
+    "fileName": "moneyman-emprestimo-pessoal.png"
+  },
+  {
+    "name": "mutual-emprestimo-pessoal",
+    "fileName": "mutual-emprestimo-pessoal.png"
+  },
+  {
+    "name": "noverde-emprestimo-pessoal",
+    "fileName": "noverde-emprestimo-pessoal.png"
+  },
+  {
+    "name": "omni-solucoes-financeiras",
+    "fileName": "omni-solucoes-financeiras.png"
+  },
+  { "name": "pernambucanas", "fileName": "pernambucanas.png" },
+  { "name": "piki", "fileName": "piki.png" },
+  {
+    "name": "portocred-emprestimo-pessoal",
+    "fileName": "portocred-emprestimo-pessoal.png"
+  },
+  {
+    "name": "portoseguro-emprestimo-pessoal",
+    "fileName": "portoseguro-emprestimo-pessoal.png"
+  },
+  {
+    "name": "prospera-emprestimo-pessoal",
+    "fileName": "prospera-emprestimo-pessoal.png"
+  },
+  { "name": "rebel-logo", "fileName": "rebel-logo.png" },
+  {
+    "name": "sicredi-emprestimo-pessoal",
+    "fileName": "sicredi-emprestimo-pessoal.png"
+  },
+  {
+    "name": "simplic-emprestimo-pessoal",
+    "fileName": "simplic-emprestimo-pessoal.png"
+  },
+  { "name": "supersim", "fileName": "supersim.png" },
+  {
+    "name": "trigg-cartao-de-credito",
+    "fileName": "trigg-cartao-de-credito.png"
+  }
+]

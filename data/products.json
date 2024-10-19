@@ -1,0 +1,182 @@
+[
+  {
+    "_id": {
+      "$oid": "609ef9870d7316c326f3963c"
+    },
+    "title": "CRÉDITO PESSOAL",
+    "productKey": "creditoPessoal",
+    "icon": "",
+    "sequence": 1,
+    "description": "Produto de Crédito Pessoal",
+    "subProducts": [
+      {
+        "title": "Empréstimo Pessoal",
+        "subProductKey": "emprestimoPessoal",
+        "sequence": 0,
+        "description": "Sub categoria de empréstimo pessoal.",
+        "companyKeyList": ["easyCredito", "bizCapital"]
+      },
+      {
+        "title": "Empréstimo Consignado",
+        "subProductKey": "emprestimoConsignado",
+        "sequence": 1,
+        "description": "Sub categoria de empréstimo consignado.",
+        "companyKeyList": []
+      },
+      {
+        "title": "Micro Empréstimo com débito em Conta de Luz",
+        "subProductKey": "emprestimoComDebitoEmContaDeLuz",
+        "sequence": 3,
+        "description": "Sub categoria de Micro Empréstimo com débito em Conta de Luz.",
+        "companyKeyList": []
+      },
+      {
+        "title": "Refinanciamento de Imóvel",
+        "subProductKey": "refinanciamentoDeImovel",
+        "sequence": 4,
+        "description": "Sub categoria de Refinanciamento de Imóvel.",
+        "companyKeyList": []
+      },
+      {
+        "title": "Refinanciamento de Automóvel",
+        "subProductKey": "refinanciamentoDeAutomovel",
+        "sequence": 5,
+        "description": "Sub categoria de Refinanciamento de Automóvel.",
+        "companyKeyList": []
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-05-14T22:28:23.900Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-14T22:28:23.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "609efb0c0d7316c326f3963e"
+    },
+    "title": "CRÉDITO EMPRESARIAL",
+    "productKey": "creditoEmpresarial",
+    "icon": "",
+    "sequence": 2,
+    "description": "Produto de Crédito Empresarial",
+    "subProducts": [
+      {
+        "title": "Capital de Giro",
+        "subProductKey": "capitalDeGiro",
+        "sequence": 0,
+        "description": "Sub categoria de Capital de Giro.",
+        "companyKeyList": ["bizCapital"]
+      },
+      {
+        "title": "Compra de Equipamentos",
+        "subProductKey": "compraDeEquipamentos",
+        "sequence": 1,
+        "description": "Sub categoria de Compra de Equipamentos.",
+        "companyKeyList": ["bizCapital"]
+      },
+      {
+        "title": "Compra de Estoque",
+        "subProductKey": "compraDeEstoque",
+        "sequence": 2,
+        "description": "Sub categoria de Compra de Estoque.",
+        "companyKeyList": ["bizCapital"]
+      },
+      {
+        "title": "Consolidação de Dívidas",
+        "subProductKey": "consolidacaoDeDividas",
+        "sequence": 3,
+        "description": "Sub categoria de Consolidação de Dívidas.",
+        "companyKeyList": ["bizCapital"]
+      },
+      {
+        "title": "Expansão e Reforna",
+        "subProductKey": "expansaoEReforma",
+        "sequence": 4,
+        "description": "Sub categoria de Expansão e Reforna.",
+        "companyKeyList": ["bizCapital"]
+      },
+      {
+        "title": "Marketing e Vendas",
+        "subProductKey": "marketingEVendas",
+        "sequence": 5,
+        "description": "Sub categoria de Marketing e Vendas.",
+        "companyKeyList": ["bizCapital"]
+      },
+      {
+        "title": "Crédito para Construtoras",
+        "subProductKey": "creditoParaConstrutoras",
+        "sequence": 6,
+        "description": "Sub categoria de Crédito para Construtoras.",
+        "companyKeyList": []
+      },
+      {
+        "title": "Âncora Multi-Cedente",
+        "subProductKey": "ancoraMultiCedente",
+        "sequence": 7,
+        "description": "Sub categoria de Âncora Multi-Cedente.",
+        "companyKeyList": []
+      },
+      {
+        "title": "Crédito Segurado",
+        "subProductKey": "creditoSegurado",
+        "sequence": 8,
+        "description": "Sub categoria de Crédito Segurado.",
+        "companyKeyList": []
+      },
+      {
+        "title": "Intercompany",
+        "subProductKey": "intercompany",
+        "sequence": 9,
+        "description": "Sub categoria de Intercompany.",
+        "companyKeyList": []
+      },
+      {
+        "title": "Conta Escrow",
+        "subProductKey": "contaEscrow",
+        "sequence": 10,
+        "description": "Sub categoria de Conta Escrow.",
+        "companyKeyList": []
+      },
+      {
+        "title": "Operação Comissária",
+        "subProductKey": "operacaoComissaria",
+        "sequence": 11,
+        "description": "Sub categoria de Operação Comissária.",
+        "companyKeyList": []
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-05-14T22:34:52.271Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-14T22:34:52.271Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60a5abc1d900d300216abea3"
+    },
+    "title": "CARTÃO",
+    "productKey": "cartaoCredito",
+    "icon": "",
+    "sequence": 3,
+    "description": "Produto de Solicitação de Cartão",
+    "subProducts": [
+      {
+        "title": "Cartão de crédito",
+        "subProductKey": "cartaoCredito",
+        "sequence": 0,
+        "description": "Solicitação de cartão de crédito",
+        "companyKeyList": ["easyCredito"]
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-05-20T00:22:25.633Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-20T00:22:25.633Z"
+    }
+  }
+]

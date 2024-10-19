@@ -1,0 +1,40 @@
+[
+  {
+    "name": "batata teste",
+    "email": "batata321@gmail.com",
+    "password": "UIYD26Y7S*u",
+    "role": "USER",
+    "phones": ["41996894432"],
+    "cpf": "02348975687",
+    " personType": "FISICA",
+    " addressMetadata": {
+      "city": "Paranaguá",
+      "neighborhood": "Palmital",
+      "state": "PR",
+      "street": "Rua Arthur Bernardes,  105",
+      "zipCode": "83206110",
+      "streetNumber": "105",
+      "complement": ""
+    },
+    "settings": { "accountType": "USER" }
+  },
+  {
+    "name": "Lavínia Natália Lara de Paula",
+    "email": "lavinia_depaula@isbt.com.br",
+    "password": "5NYS273W2*u",
+    "role": "USER",
+    "phones": ["41996894432"],
+    "cpf": "72029897353",
+    "personType": "FISICA",
+    "addressMetadata": {
+      "city": "Campo Grande",
+      "neighborhood": "Coronel Antonino",
+      "state": "MS",
+      "street": "Rua São José,  456",
+      "zipCode": "79011352",
+      "streetNumber": "456",
+      "complement": ""
+    },
+    "settings": { "accountType": "USER" }
+  }
+]

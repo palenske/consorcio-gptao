@@ -1,0 +1,98 @@
+[
+  {
+    "display": true,
+    "title": "CrediBanPessoal",
+    "subtitle": "Empréstimo sem burocracia e totalmente online",
+    "list": [
+      "Simule Crédito com até de 30 instituições financeiras",
+      "Empréstimo com e <b>sem</b> garantia ou avalista",
+      "Refinanciamento de veículos",
+      "Refinanciamento Imobiliário",
+      "Operacional ágil e qualificado"
+    ]
+  },
+  {
+    "display": true,
+    "title": "CrediBanContas",
+    "subtitle": "Pague e parcele todas as suas contas em até 18X no Cartão de Crédito",
+    "list": [
+      "Boletos diversos",
+      "Impostos e Taxas",
+      "DETRAN multas e Ipva",
+      "Contas de água, luz, telefone e net"
+    ]
+  },
+  {
+    "display": true,
+    "title": "CrediBanEmpresas",
+    "subtitle": "Faça empréstimo com o seu cartão de crédito e com as melhores taxas",
+    "list": [
+      "Simule Crédito com até de 30 instituições financeiras",
+      "Empréstimo com e <b>sem</b> garantia ou avalista",
+      "Refinanciamentos",
+      "Capital de giro com cartão de crédito",
+      "Operacional ágil e qualificado"
+    ]
+  },
+  {
+    "display": false,
+    "title": "CrediBanRecarga",
+    "subtitle": "Recarregue e parcele tudo em até 18X no Cartão de Crédito",
+    "list": [
+      "Conteúdo Digital (Google Play, LOL, Xbox, PSN, Steam);",
+      "Streaming e TV Pré-pago (Netflix, Spotify, Sky, Claro TV, Oi, TV);",
+      "Transporte (Uber e SPTrans).",
+      "Recarga de telefone."
+    ]
+  },
+  {
+    "display": false,
+    "title": "CrediBanAluguel",
+    "subtitle": "Alugue de forma simples, sem burocracia e parcelando em 18 vezes",
+    "list": [
+      "Aluguel sem garantia ou fiador, apenas com o Cartão de Crédito",
+      "Pague e parcele o aluguel de suas férias com Cartão de Crédito",
+      "Empréstimo para sua viagem dos sonhos com cartão de crédito",
+      "Descanse e curta suas férias em até 18X no cartão de crédito",
+      "Operacional ágil e qualificado"
+    ]
+  },
+  {
+    "display": false,
+    "title": "CrediBanArtistas",
+    "subtitle": "Contrate aquele show dos sonhos e parcele no cartão de crédito",
+    "list": [
+      "Consulte disponibilidade e cachê de seu artista preferido e pague em até 18x com Cartão de Crédito;",
+
+      "Pague e parcele sua festa de aniversário ou casamento com Cartão de Crédito;",
+      "Capital de giro com cartão de crédito para antecipar as despesas da sua festa;",
+      "Operacional ágil e qualificado."
+    ]
+  },
+  {
+    "display": true,
+    "title": "CrediBanVeículos",
+    "subtitle": "Consulte a regularidade do veículo e confeccione o contrato de compra e venda conforme a Lei 13.111/15",
+    "list": [
+      "Valor dos tributos incidentes sobre a comercialização do veículo",
+      "Furto ou roubo",
+      "Multas e taxas anuais legalmente devidas",
+      "Débitos de impostos",
+      "Alienação fiduciária e outros"
+    ]
+  },
+  {
+    "display": false,
+    "title": "CrediBanSeguros",
+    "subtitle": "Consulte as melhores ofertas com mais de 20 Corretoras",
+    "list": [
+      "Carro e Moto",
+      "Vida e Previdência",
+      "Imóveis",
+      "Consórcios",
+      "Capitalização",
+      "Saúde",
+      "Outros Seguros"
+    ]
+  }
+]
